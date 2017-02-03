@@ -26,7 +26,7 @@ passport.use(new LocalStrategy(
     });
   }
 ));
-console.log("db ==============", db);
+
 
 
 
